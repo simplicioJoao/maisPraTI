@@ -1,6 +1,6 @@
 # maisPraTI
 
-Este repositório contém os exercícios e os projetos desenvolvidos na trilha Desenvolvedor Web Full Stack Junior da +praTI.
+Este repositório contém os exercícios e os projetos desenvolvidos no módulo 1 da trilha Desenvolvedor Web Full Stack Junior da +praTI.
 
 Para executar e testar os códigos localmente:
 1. Instale o Node.js (caso não possua).
